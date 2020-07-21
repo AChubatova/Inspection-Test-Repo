@@ -6,5 +6,5 @@
  * Detailed information about configuring a multi-project build in Gradle can be found
  * in the user manual at https://docs.gradle.org/6.5/userguide/multi_project_builds.html
  */
-
+sourceCompatibility = 1.8
 rootProject.name = "inspection-test-repo"
