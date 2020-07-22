@@ -30,11 +30,11 @@ build
 # When using Gradle or Maven with auto-import, you should exclude module files,
 # since they will be recreated, and may cause churn.  Uncomment if using
 # auto-import.
-.idea/artifacts
-.idea/jarRepositories.xml
-.idea/*.iml
-.iml
-.ipr
+#.idea/artifacts
+#.idea/jarRepositories.xml
+#.idea/*.iml
+#.iml
+#.ipr
 
 ######## breaks teamcity inspections build
 #.idea/compiler.xml
